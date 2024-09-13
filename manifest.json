@@ -1,7 +1,7 @@
 {
     "url": "https://github.com/emenikenicholasatwork/Telegram-DeFi-bot/",
     "name": "LIONS",
-    "iconUrl": "https://github.com/emenikenicholasatwork/Telegram-DeFi-bot/lion-icon.png",
-    "termsOfUseUrl": "https://github.com/emenikenicholasatwork/Telegram-DeFi-bot/term-of-use.text",
-    "privacyPolicyUrl": "https://github.com/emenikenicholasatwork/Telegram-DeFi-bot/privacy-policy-text"
+    "iconUrl": "https://raw.githubusercontent.com/emenikenicholasatwork/manifest/main/lion-icon.png",
+    "termsOfUseUrl": "https://raw.githubusercontent.com/emenikenicholasatwork/manifest/main/term-of-use.text",
+    "privacyPolicyUrl": "https://raw.githubusercontent.com/emenikenicholasatwork/manifest/main/privacy-policy-text"
 }
